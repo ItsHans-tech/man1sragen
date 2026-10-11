@@ -14,7 +14,7 @@ export default function Footer() {
             <div className="flex items-center gap-3">
               <div className="relative w-12 h-12 rounded-full overflow-hidden bg-white p-0.5 shrink-0 border border-amber-400">
                 <Image
-                  src="/logo%20man.jpg"
+                  src="/logoMan.jpg"
                   alt="Logo MAN 1 Sragen"
                   fill
                   sizes="48px"

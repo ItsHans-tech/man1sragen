@@ -17,7 +17,7 @@ function MarqueeGroup({ hidden = false }) {
             {kalimat}
           </span>
           <Image
-            src="/logo%20man.jpg"
+            src="/logoMan.jpg"
             alt=""
             width={36}
             height={36}
